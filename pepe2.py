@@ -1,1 +1,1 @@
-print("Hermano de pepe")
+print("Hermano Menor de pepe")
